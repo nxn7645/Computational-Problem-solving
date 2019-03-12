@@ -1,0 +1,15 @@
+WELCOME TO NAMANS PLAYLIST CREATOR 
+
+Problems with the code:
+
+1. Insert function inserts the song selected by rank as the first song of the playlist. (and not according to the position the user selects)
+2. The create function doesnt limit the user to only 20 songs.
+
+Things that can be improved
+
+1. Trying to limit the user to only 20 songs
+2. Making sure the insert function places the song in the right position.
+3. The first song of every playlist created has weird numbers(maybe trying to ignore this in the program)
+4. Making it more user friendly(like allowing them to edit more playlist at once... like as of now the user can work and edit playlist 1 and then it allows the user to work on a new playlist like playlist 2 but then doesnt let you go back to playlist 1 sometimes)
+
+                                
